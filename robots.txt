@@ -1,0 +1,13 @@
+# Robots.txt for HowToTalkToWomen.xyz
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /private/
+Disallow: /?s=
+Disallow: /search
+
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://howtotalktowomen.xyz/sitemap.xml
